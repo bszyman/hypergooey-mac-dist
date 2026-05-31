@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "HyperGooey",
-            url: "https://github.com/bszyman/hypergooey-mac-dist/releases/download/2.0.0r2/HyperGooey.xcframework.zip",
-            checksum: "597dc0cafd61dc7ffecb42c71b5f48471c3c4c02dbd6767305399fedc309b5e7"
+            url: "https://github.com/bszyman/hypergooey-mac-dist/releases/download/2.0.1/HyperGooey.xcframework.zip",
+            checksum: "0341b6cabeda3d1d2a07b87add9b88d55423c9e10c4b00981756df294494fcfc"
         )
     ]
 )
